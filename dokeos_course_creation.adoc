@@ -5,19 +5,19 @@
 
 [big]*Uploading Modules from Jenkins to Dokeos* +
 
-video::video/scorm_dokeos1.mp4[]
+video::video/scorm_dokeos1.mp4[poster="images/jenkins_dokeos_modules_cover.png"]
 
 [big]*Uploading Labs from Jenkins to Dokeos* +
 
-video::video/scorm_dokeos2.mp4[]
+video::video/scorm_dokeos2.mp4[poster="images/jenkins_dokeos_lab_cover.png"]
 
 
 [big]*Uploading Assessments from Jenkins to Dokeos* +
 
-video::video/scorm_dokeos3.mp4[]
+video::video/scorm_dokeos3.mp4[poster="images/jenkins_dokeos_quiz_cover.png"]
 
 
 [big]*Updating the Scenario in Dokeos* +
 
-video::video/scorm_dokeos4.mp4[]
+video::video/scorm_dokeos4.mp4[poster="images/edit_scenario_cover.png"]
 
