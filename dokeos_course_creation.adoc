@@ -1,0 +1,23 @@
+:data-uri:
+:scrollbar:
+
+== Course Creation Process
+
+[big]*Uploading Modules from Jenkins to Dokeos* +
+
+video::video/scorm_dokeos1.mp4[]
+
+[big]*Uploading Labs from Jenkins to Dokeos* +
+
+video::video/scorm_dokeos2.mp4[]
+
+
+[big]*Uploading Assessments from Jenkins to Dokeos* +
+
+video::video/scorm_dokeos3.mp4[]
+
+
+[big]*Updating the Scenario in Dokeos* +
+
+video::video/scorm_dokeos4.mp4[]
+

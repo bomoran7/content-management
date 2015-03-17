@@ -1,0 +1,23 @@
+:data-uri:
+:scrollbar:
+
+== Creating Animation Video Process
+
+. Clone the course from github
+. Copy the images from the images folder in the course
+. Name the images based on module# and title of slide (example: fusemsg1_broker-architecture.png)
+. Create the sub-images in Photoshop
+. Create the animation in Captivate
+. Edit and Add audio to animation
+. One audio script and one recording and get file and put the second piece to the diagram
+.. Example - In this  diagram  ->  where I grab the audio from
+. Publish as .mp4 
+. Add cover page as needed so not to have blank page with play buttons at the bottom of the screen.
+. Create a separate slide to separate out the animation as needed or incorporate with bulleted items.
+. Send the completed .mp4 file and notes to Course Developer
+. Review notes or have short meeting to discuss flow of the diagrams so they are complete
+. Update based on review notes
+. Upload into forge.opentlc.com videos folder
+. Update asciidoc slides in course
+. Fork & Send Pull Request to Course Developer
+
